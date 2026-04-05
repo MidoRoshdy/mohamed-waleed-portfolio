@@ -873,6 +873,9 @@ h2 {
 .ci-purple {
   background: rgba(139, 92, 246, 0.15);
 }
+.ci-gold {
+  background: rgba(240, 180, 41, 0.15);
+}
 
 .contact-detail-label {
   font-size: 0.7rem;
