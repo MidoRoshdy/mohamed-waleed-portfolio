@@ -36,21 +36,6 @@ This is a static site; no build step is required.
 1. Clone or download the repository.
 2. Open `index.html` in a browser, **or** serve the folder with any static file server.
 
-**Example (Python 3):**
-
-```bash
-cd "mohamed waleed portfolio"
-python3 -m http.server 8080
-```
-
-Then visit `http://localhost:8080` in your browser.
-
-**Example (Node.js, if you have `npx`):**
-
-```bash
-npx --yes serve .
-```
-
 ## Deployment
 
 Upload the project root (or the contents of this folder) to any static host—GitHub Pages, Netlify, Vercel, Cloudflare Pages, or your own web server. Ensure `index.html` remains at the site root and that paths to `css/`, `js/`, and `images/` stay relative.
