@@ -29,16 +29,9 @@ mohamed waleed portfolio/
 └── images/         # Asset images
 ```
 
-## Run locally
-
-This is a static site; no build step is required.
-
-1. Clone or download the repository.
-2. Open `index.html` in a browser, **or** serve the folder with any static file server.
-
 ## Deployment
 
-Upload the project root (or the contents of this folder) to any static host—GitHub Pages, Netlify, Vercel, Cloudflare Pages, or your own web server. Ensure `index.html` remains at the site root and that paths to `css/`, `js/`, and `images/` stay relative.
+Static site with no build step: push this repo to GitHub and enable **GitHub Pages** (Settings → Pages) using the branch and folder that contain `index.html` at the repository root. Keep paths to `css/`, `js/`, and `images/` relative so assets load correctly.
 
 ---
 
