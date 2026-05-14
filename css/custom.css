@@ -582,6 +582,14 @@ h2 {
   color: var(--accent);
 }
 
+.project-date-note {
+  display: block;
+  margin-top: 0.75rem;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--text-dim);
+}
+
 /* ─── SKILLS ─── */
 #skills {
   background: var(--bg);
